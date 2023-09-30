@@ -1,0 +1,49 @@
+                                  List of relations
+ Schema |                     Name                      | Type  |       Owner        
+--------+-----------------------------------------------+-------+--------------------
+ public | account_emailaddress                          | table | shilengae_dev_user
+ public | account_emailconfirmation                     | table | shilengae_dev_user
+ public | ads_ad                                        | table | shilengae_dev_user
+ public | ads_favoritedads                              | table | shilengae_dev_user
+ public | ads_reportedads                               | table | shilengae_dev_user
+ public | ads_shilengaeadpreferences                    | table | shilengae_dev_user
+ public | api_appversion                                | table | shilengae_dev_user
+ public | api_privacypolicy                             | table | shilengae_dev_user
+ public | api_shilengaeissuereport                      | table | shilengae_dev_user
+ public | api_termsandconditions                        | table | shilengae_dev_user
+ public | auth_group                                    | table | shilengae_dev_user
+ public | auth_group_permissions                        | table | shilengae_dev_user
+ public | auth_permission                               | table | shilengae_dev_user
+ public | authtoken_token                               | table | shilengae_dev_user
+ public | django_admin_log                              | table | shilengae_dev_user
+ public | django_content_type                           | table | shilengae_dev_user
+ public | django_migrations                             | table | shilengae_dev_user
+ public | django_session                                | table | shilengae_dev_user
+ public | django_site                                   | table | shilengae_dev_user
+ public | forms_category                                | table | shilengae_dev_user
+ public | forms_category_ancestors                      | table | shilengae_dev_user
+ public | forms_category_descendants                    | table | shilengae_dev_user
+ public | forms_categoryiconpack                        | table | shilengae_dev_user
+ public | forms_form                                    | table | shilengae_dev_user
+ public | forms_formfield                               | table | shilengae_dev_user
+ public | forms_formfieldimageresponse                  | table | shilengae_dev_user
+ public | forms_formfieldresponse                       | table | shilengae_dev_user
+ public | forms_usercategoryfilters                     | table | shilengae_dev_user
+ public | languages_translationpack                     | table | shilengae_dev_user
+ public | languages_word                                | table | shilengae_dev_user
+ public | locations_city                                | table | shilengae_dev_user
+ public | locations_country                             | table | shilengae_dev_user
+ public | locations_region                              | table | shilengae_dev_user
+ public | socialaccount_socialaccount                   | table | shilengae_dev_user
+ public | socialaccount_socialapp                       | table | shilengae_dev_user
+ public | socialaccount_socialapp_sites                 | table | shilengae_dev_user
+ public | socialaccount_socialtoken                     | table | shilengae_dev_user
+ public | users_blacklistedtoken                        | table | shilengae_dev_user
+ public | users_shilengaeuser                           | table | shilengae_dev_user
+ public | users_shilengaeuser_groups                    | table | shilengae_dev_user
+ public | users_shilengaeuser_user_permissions          | table | shilengae_dev_user
+ public | users_shilengaeuserpreference                 | table | shilengae_dev_user
+ public | users_shilengaeuserprofile                    | table | shilengae_dev_user
+ public | users_shilengaeuserprofile_operable_countries | table | shilengae_dev_user
+(44 rows)
+

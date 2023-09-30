@@ -1,0 +1,104 @@
+[
+  {
+    "type": "textbox",
+    "description": "",
+    "hint": "",
+    "label": "",
+    "data": {}
+  },
+
+  {
+    "type": "multiline-textbox",
+    "description": "",
+    "hint": "",
+    "label": "",
+    "data": {}
+  },
+
+  {
+    "type": "dropdown",
+    "description": "",
+    "hint": "",
+    "label": "",
+    "data": {
+      "option-1": "Option one",
+      "option-2": "Option two",
+      "option-3": "Option three"
+    }
+  },
+
+  {
+    "type": "radio",
+    "description": "",
+    "hint": "",
+    "label": "",
+    "data": {
+      "option-1": "Option one",
+      "option-2": "Option two",
+      "option-3": "Option three"
+    }
+  },
+
+  {
+    "type": "multi-select",
+    "description": "",
+    "hint": "",
+    "label": "",
+    "data": {
+      "option-1": "Option one",
+      "option-2": "Option two",
+      "option-3": "Option three"
+    }
+  },
+
+  {
+    "type": "image",
+    "description": "",
+    "hint": "",
+    "label": "",
+    "image": "image-location.png",
+    "data": {}
+  },
+
+  {
+    "type": "file",
+    "description": "",
+    "hint": "",
+    "label": "",
+    "file": "file-location.png",
+    "data": {}
+  },
+
+  {
+    "type": "date",
+    "description": "",
+    "hint": "",
+    "label": "",
+    "data": {
+      "date": ""
+    }
+  },
+
+  {
+    "type": "date-range",
+    "description": "",
+    "hint": "",
+    "label": "",
+    "data": {
+      "startDate": "2021-07-30T21:00:00.000Z",
+      "endDate": "2021-08-09T21:00:00.000Z"
+    }
+  },
+
+  {
+    "type": "range",
+    "description": "",
+    "hint": "",
+    "label": "",
+    "data": {
+      "minimum": 0,
+      "maximum": 100,
+      "unit": "(optional might be replaced with label)"
+    }
+  }
+]
